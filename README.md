@@ -1,3 +1,5 @@
+![alt](https://raw.github.com/lettier/javaclock/master/screenshot.jpg)
+
 # Java Clock
 
 Working/ticking analog clock made in Java.
